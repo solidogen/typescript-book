@@ -61,4 +61,4 @@ You can also download one of the Epub, Mobi, or PDF formats from the [actions ta
 All the amazing [contributors](https://github.com/basarat/typescript-book/graphs/contributors) 🌹
 
 ## Share
-Share URL: https://basarat.gitbook.io/typescript/
+Share URL: https://basarat.gitbook.io/typescript/  
